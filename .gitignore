@@ -1,0 +1,15 @@
+/target*/
+/Cargo.lock
+
+*.swp*
+*.nfs*
+*~
+*.~*
+*.tmp
+*.old
+*.bak
+*.orig
+*.pid
+
+.*
+!.git*
